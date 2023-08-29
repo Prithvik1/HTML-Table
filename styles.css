@@ -18,7 +18,7 @@ body {
   padding: 15px 15px;
 }
 .content tbody tr{
-  border-bottom:1px solid #dddddd;
+  border-bottom:1px solid #bbbaba;
 }
 .content tbody tr : nth-of-type (even)
 {
@@ -53,7 +53,7 @@ h1 {
 }
 #lunch{
   flex-direction: column;
-  background: white;
+  background: rgb(204, 194, 194);
 }
 table {
   text-align: center;
@@ -67,27 +67,28 @@ table {
   color: white;
 }
 tr {
-  background-color: white;
+  background-color: rgb(199, 168, 168);
 }
 
 table {
   align-items: center;
+  justify-content: center;
 }
 
 #monday {
-  background-color: azure;
+  background-color:  rgb(158, 158, 158);
 }
 #tuesday {
   background-color: #dddddd;
 }
 #wednesday {
-  background-color: azure;
+  background-color: rgb(158, 158, 158);
 }
 #thursday {
   background-color: #dddddd;
 }
 #friday {
-  background-color: azure;
+  background-color:  rgb(158, 158, 158);
 }
 #saturday {
   background-color: #dddddd;
@@ -97,7 +98,7 @@ table {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2em;
   font-weight:bolder;
-  color: rgb(226, 17, 17);
+  color: rgb(188, 4, 4);
   padding-top: 2%;
 }
 #kalvium
